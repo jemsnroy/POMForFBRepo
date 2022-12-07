@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [testng.xml]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="com.qa.FB.extentReportListener.ExtentReporterNG"/>
+  </listeners>
+  <test name="Test(failed)">
+    <classes>
+      <class name="com.ali.qa.tests.MarketplaceTest">
+        <methods>
+          <include name="vldCLKTest"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.ali.qa.tests.MarketplaceTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [testng.xml] -->

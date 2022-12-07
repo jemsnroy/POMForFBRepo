@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="12" failures="0" name="TestSuite" time="19.575" errors="0" skipped="0">
+  <properties>
+    <property name="PT8HOME" value="D:\Cisco Packet Tracer\Cisco Packet Tracer 8.1.1"/>
+    <property name="PROCESSOR_ARCHITECTURE" value="AMD64"/>
+    <property name="LOGONSERVER" value="\\JEMSNROY"/>
+    <property name="native.encoding" value="Cp1252"/>
+    <property name="ProgramData" value="C:\ProgramData"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-17.0.5"/>
+    <property name="NODE_NAME" value="built-in"/>
+    <property name="JENKINS_URL" value="http://localhost:8080/"/>
+    <property name="ALLUSERSPROFILE" value="C:\ProgramData"/>
+    <property name="PSModulePath" value="C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files (x86)\Microsoft SQL Server\150\Tools\PowerShell\Modules\"/>
+    <property name="=::" value="::\"/>
+    <property name="USERDOMAIN" value="JEMSNROY"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="CommonProgramFiles(x86)" value="C:\Program Files (x86)\Common Files"/>
+    <property name="java.version" value="17.0.5"/>
+    <property name="JOB_NAME" value="POMForFBRunner"/>
+    <property name="COMPUTERNAME" value="JEMSNROY"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="PUBLIC" value="C:\Users\Public"/>
+    <property name="java.version.date" value="2022-10-18"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="user.name" value="jemis"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="windir" value="C:\WINDOWS"/>
+    <property name="PROCESSOR_IDENTIFIER" value="Intel64 Family 6 Model 141 Stepping 1, GenuineIntel"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="LOCALAPPDATA" value="C:\Users\jemis\AppData\Local"/>
+    <property name="RUN_CHANGES_DISPLAY_URL" value="http://localhost:8080/job/POMForFBRunner/2/display/redirect?page=changes"/>
+    <property name="user.timezone" value="America/Toronto"/>
+    <property name="user.script" value=""/>
+    <property name="path.separator" value=";"/>
+    <property name="NUMBER_OF_PROCESSORS" value="12"/>
+    <property name="BUILD_TAG" value="jenkins-POMForFBRunner-2"/>
+    <property name="ACSvcPort" value="17532"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="sun.java.command" value="jenkins.maven3.agent.Maven35Main C:\apache-maven-3.8.6-bin\apache-maven-3.8.6 C:\Users\jemis\.jenkins\war\WEB-INF\lib\remoting-3044.vb_940a_a_e4f72e.jar C:\Users\jemis\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-interceptor-1.14.jar C:\Users\jemis\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.14.jar 55397"/>
+    <property name="HUDSON_URL" value="http://localhost:8080/"/>
+    <property name="JENKINS_SERVER_COOKIE" value="59d8b9ee4d39cc21"/>
+    <property name="=D:" value="D:\"/>
+    <property name="EXECUTOR_NUMBER" value="1"/>
+    <property name="Path" value="C:\Program Files\Java\jdk-17.0.5/bin;C:\Program Files (x86)\VMware\VMware Player\bin\;C:\db_home\WINDOWS.X64_193000_db_home\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;C:\Mongo DB Shell\mongosh-1.5.0-win32-x64\mongosh-1.5.0-win32-x64\bin;C:\Program Files\Java\jdk-17.0.5\bin;C:\apache-ant-1.10.12-bin\apache-ant-1.10.12\bin;C:\apache-maven-3.8.6-bin\apache-maven-3.8.6\bin;C:\Program Files\PuTTY\;D:\Scripts\;D:\;C:\Users\jemis\AppData\Local\Microsoft\WindowsApps;;C:\Users\jemis\AppData\Local\Programs\Microsoft VS Code\bin;D:\PyCharm Community Edition 2021.2.3\bin;;C:\Program Files\Azure Data Studio\bin"/>
+    <property name="java.io.tmpdir" value="C:\Users\jemis\AppData\Local\Temp\"/>
+    <property name="APPDATA" value="C:\Users\jemis\AppData\Roaming"/>
+    <property name="user.language" value="en"/>
+    <property name="line.separator" value="
+"/>
+    <property name="BUILD_URL" value="http://localhost:8080/job/POMForFBRunner/2/"/>
+    <property name="ACSetupSvcPort" value="23210"/>
+    <property name="M2_HOME" value="C:\apache-maven-3.8.6-bin\apache-maven-3.8.6"/>
+    <property name="=C:" value="C:\Jenkins"/>
+    <property name="ZES_ENABLE_SYSMAN" value="1"/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="DriverData" value="C:\Windows\System32\Drivers\DriverData"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="CI" value="true"/>
+    <property name="BUILD_DISPLAY_NAME" value="#2"/>
+    <property name="OS" value="Windows_NT"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="HUDSON_SERVER_COOKIE" value="59d8b9ee4d39cc21"/>
+    <property name="WORKSPACE_TMP" value="C:\Users\jemis\.jenkins\workspace\POMForFBRunner@tmp"/>
+    <property name="MAVEN_HOME" value="C:\apache-maven-3.8.6-bin\apache-maven-3.8.6"/>
+    <property name="SESSIONNAME" value="Console"/>
+    <property name="PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC"/>
+    <property name="maven3.interceptor.common" value="C:\Users\jemis\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.14.jar"/>
+    <property name="CLASSPATH" value=""/>
+    <property name="jansi.mode" value="strip"/>
+    <property name="PyCharm Community Edition" value="D:\PyCharm Community Edition 2021.2.3\bin;"/>
+    <property name="HOMEPATH" value="\Users\jemis"/>
+    <property name="os.name" value="Windows 11"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="BUILD_NUMBER" value="2"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="maven3.interceptor" value="C:\Users\jemis\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-interceptor-1.14.jar"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-17.0.5\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\apache-maven-3.8.6-bin\apache-maven-3.8.6/bin;C:\Program Files\Java\jdk-17.0.5/bin;C:\Program Files\Java\jdk-17.0.5/bin;C:\Program Files (x86)\VMware\VMware Player\bin\;C:\db_home\WINDOWS.X64_193000_db_home\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;C:\Mongo DB Shell\mongosh-1.5.0-win32-x64\mongosh-1.5.0-win32-x64\bin;C:\Program Files\Java\jdk-17.0.5\bin;C:\apache-ant-1.10.12-bin\apache-ant-1.10.12\bin;C:\apache-maven-3.8.6-bin\apache-maven-3.8.6\bin;C:\Program Files\PuTTY\;D:\Scripts\;D:\;C:\Users\jemis\AppData\Local\Microsoft\WindowsApps;;C:\Users\jemis\AppData\Local\Programs\Microsoft VS Code\bin;D:\PyCharm Community Edition 2021.2.3\bin;;C:\Program Files\Azure Data Studio\bin;."/>
+    <property name="HOMEDRIVE" value="C:"/>
+    <property name="POM_GROUPID" value="com.ali.qa.base"/>
+    <property name="POM_ARTIFACTID" value="POMForFB"/>
+    <property name="java.class.version" value="61.0"/>
+    <property name="JOB_URL" value="http://localhost:8080/job/POMForFBRunner/"/>
+    <property name="ANT_HOME" value="C:\apache-ant-1.10.12-bin\apache-ant-1.10.12"/>
+    <property name="OneDrive" value="C:\Users\jemis\OneDrive"/>
+    <property name="RUN_DISPLAY_URL" value="http://localhost:8080/job/POMForFBRunner/2/display/redirect"/>
+    <property name="VBOX_MSI_INSTALL_PATH" value="C:\Program Files\Oracle\VirtualBox\"/>
+    <property name="JENKINS_HOME" value="C:\Users\jemis\.jenkins"/>
+    <property name="BUILD_ID" value="2"/>
+    <property name="TEMP" value="C:\Users\jemis\AppData\Local\Temp"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-17.0.5\bin"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="user.variant" value=""/>
+    <property name="PROCESSOR_REVISION" value="8d01"/>
+    <property name="POM_VERSION" value="0.0.1-SNAPSHOT"/>
+    <property name="HUDSON_HOME" value="C:\Users\jemis\.jenkins"/>
+    <property name="ProgramFiles(x86)" value="C:\Program Files (x86)"/>
+    <property name="PATH+MAVEN" value="C:\apache-maven-3.8.6-bin\apache-maven-3.8.6/bin"/>
+    <property name="USERDOMAIN_ROAMINGPROFILE" value="JEMSNROY"/>
+    <property name="RUN_ARTIFACTS_DISPLAY_URL" value="http://localhost:8080/job/POMForFBRunner/2/display/redirect?page=artifacts"/>
+    <property name="PROMPT" value="$P$G"/>
+    <property name="java.vm.specification.version" value="17"/>
+    <property name="JAVA_HOME" value="C:\Program Files\Java\jdk-17.0.5"/>
+    <property name="NODE_LABELS" value="built-in"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="USERPROFILE" value="C:\Users\jemis"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="asl.log" value="Destination=file"/>
+    <property name="JOB_DISPLAY_URL" value="http://localhost:8080/job/POMForFBRunner/display/redirect"/>
+    <property name="os.version" value="10.0"/>
+    <property name="user.home" value="C:\Users\jemis"/>
+    <property name="USERNAME" value="jemis"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="PROCESSOR_LEVEL" value="6"/>
+    <property name="CommonProgramW6432" value="C:\Program Files\Common Files"/>
+    <property name="user.dir" value="C:\SeleniumCopy\Selenium_WorkSpace_Copy\POMForFB"/>
+    <property name="maven.conf" value="C:\apache-maven-3.8.6-bin\apache-maven-3.8.6\conf"/>
+    <property name="ProgramW6432" value="C:\Program Files"/>
+    <property name="TMP" value="C:\Users\jemis\AppData\Local\Temp"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="SystemDrive" value="C:"/>
+    <property name="java.vm.version" value="17.0.5+9-LTS-191"/>
+    <property name="java.class.path" value="C:\Users\jemis\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-agent-1.14.jar;C:\apache-maven-3.8.6-bin\apache-maven-3.8.6\boot\plexus-classworlds-2.6.0.jar;C:\apache-maven-3.8.6-bin\apache-maven-3.8.6/conf/logging"/>
+    <property name="org.slf4j.simpleLogger.defaultLogLevel" value="info"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="RlsSvcPort" value="22112"/>
+    <property name="WORKSPACE" value="C:\Users\jemis\.jenkins\workspace\POMForFBRunner"/>
+    <property name="ComSpec" value="C:\WINDOWS\system32\cmd.exe"/>
+    <property name="RUN_TESTS_DISPLAY_URL" value="http://localhost:8080/job/POMForFBRunner/2/display/redirect?page=tests"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="FPS_BROWSER_APP_PROFILE_STRING" value="Internet Explorer"/>
+    <property name="SystemRoot" value="C:\WINDOWS"/>
+    <property name="CommonProgramFiles" value="C:\Program Files\Common Files"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="FPS_BROWSER_USER_PROFILE_STRING" value="Default"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.runtime.version" value="17.0.5+9-LTS-191"/>
+    <property name="ProgramFiles" value="C:\Program Files"/>
+    <property name="PATH+JDK" value="C:\Program Files\Java\jdk-17.0.5/bin"/>
+    <property name="user.country" value="CA"/>
+    <property name="POM_PACKAGING" value="jar"/>
+    <property name="maven.home" value="C:\apache-maven-3.8.6-bin\apache-maven-3.8.6"/>
+    <property name="JOB_BASE_NAME" value="POMForFBRunner"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.version" value="17"/>
+    <property name="POM_DISPLAYNAME" value="POMForFB"/>
+    <property name="sun.arch.data.model" value="64"/>
+  </properties>
+  <testcase classname="com.ali.qa.tests.RegisterTest" name="vldCNATest" time="2.162"/>
+  <testcase classname="com.ali.qa.tests.RegisterTest" name="vldCNATest" time="1.831"/>
+  <testcase classname="com.ali.qa.tests.HomeTest" name="vldUsrNameTest" time="0.122"/>
+  <testcase classname="com.ali.qa.tests.LoginTest" name="vldLinkTest" time="0.004"/>
+  <testcase classname="com.ali.qa.tests.MarketplaceTest" name="vldCLKTest" time="3.086"/>
+  <testcase classname="com.ali.qa.tests.HomeTest" name="vldSSTest" time="0.133"/>
+  <testcase classname="com.ali.qa.tests.LoginTest" name="vldTitleTest" time="0.006"/>
+  <testcase classname="com.ali.qa.tests.MarketplaceTest" name="vldLgoTest" time="4.458"/>
+  <testcase classname="com.ali.qa.tests.HomeTest" name="vldMktTest" time="0.34"/>
+  <testcase classname="com.ali.qa.tests.LoginTest" name="vldElementTest" time="0.04"/>
+  <testcase classname="com.ali.qa.tests.LoginTest" name="vldSSTest" time="0.063"/>
+  <testcase classname="com.ali.qa.tests.LoginTest" name="vldLgnTest" time="7.33"/>
+</testsuite>

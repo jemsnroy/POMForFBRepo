@@ -1,0 +1,4 @@
+com\ali\qa\tests\HomeTest.class
+com\ali\qa\tests\MarketplaceTest.class
+com\ali\qa\tests\RegisterTest.class
+com\ali\qa\tests\LoginTest.class

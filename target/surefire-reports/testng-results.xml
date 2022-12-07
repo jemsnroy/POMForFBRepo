@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="12" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-07T20:10:05Z" name="Command line suite" finished-at="2022-12-07T20:13:43Z" duration-ms="217869">
+    <groups>
+    </groups>
+    <test started-at="2022-12-07T20:10:05Z" name="Command line test" finished-at="2022-12-07T20:13:43Z" duration-ms="217869">
+      <class name="com.ali.qa.tests.RegisterTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.ali.qa.tests.RegisterTest@192d3247]" started-at="2022-12-07T15:10:06Z" name="setUp" finished-at="2022-12-07T15:12:06Z" duration-ms="120270" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="vldCNATest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.ali.qa.tests.RegisterTest@192d3247]" started-at="2022-12-07T15:12:06Z" name="vldCNATest" data-provider="getRegisterData" finished-at="2022-12-07T15:12:08Z" duration-ms="2161" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kadhakfh]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[asidnscsd]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[fasdkljf165@gmai.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[abcd@WJND213215]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- vldCNATest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ali.qa.tests.RegisterTest@192d3247]" started-at="2022-12-07T15:12:08Z" name="tearDown" finished-at="2022-12-07T15:12:09Z" duration-ms="534" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.ali.qa.tests.RegisterTest@192d3247]" started-at="2022-12-07T15:12:09Z" name="setUp" finished-at="2022-12-07T15:12:12Z" duration-ms="3315" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="vldCNATest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.ali.qa.tests.RegisterTest@192d3247]" started-at="2022-12-07T15:12:12Z" name="vldCNATest" data-provider="getRegisterData" finished-at="2022-12-07T15:12:14Z" duration-ms="1831" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[dslakfdjf]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[cschsdcjks]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[duhsadi159@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[abcd@WJND213215]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- vldCNATest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ali.qa.tests.RegisterTest@192d3247]" started-at="2022-12-07T15:12:14Z" name="tearDown" finished-at="2022-12-07T15:12:14Z" duration-ms="563" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.ali.qa.tests.RegisterTest -->
+      <class name="com.ali.qa.tests.HomeTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.ali.qa.tests.HomeTest@42eca56e]" started-at="2022-12-07T15:12:14Z" name="setUp" finished-at="2022-12-07T15:12:23Z" duration-ms="8274" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="vldUsrNameTest()[pri:1, instance:com.ali.qa.tests.HomeTest@42eca56e]" started-at="2022-12-07T15:12:23Z" name="vldUsrNameTest" finished-at="2022-12-07T15:12:23Z" duration-ms="123" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- vldUsrNameTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ali.qa.tests.HomeTest@42eca56e]" started-at="2022-12-07T15:12:23Z" name="tearDown" finished-at="2022-12-07T15:12:23Z" duration-ms="505" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.ali.qa.tests.HomeTest@42eca56e]" started-at="2022-12-07T15:12:39Z" name="setUp" finished-at="2022-12-07T15:12:51Z" duration-ms="11658" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="vldSSTest()[pri:2, instance:com.ali.qa.tests.HomeTest@42eca56e]" started-at="2022-12-07T15:12:51Z" name="vldSSTest" finished-at="2022-12-07T15:12:51Z" duration-ms="133" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- vldSSTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ali.qa.tests.HomeTest@42eca56e]" started-at="2022-12-07T15:12:51Z" name="tearDown" finished-at="2022-12-07T15:12:55Z" duration-ms="3719" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.ali.qa.tests.HomeTest@42eca56e]" started-at="2022-12-07T15:13:15Z" name="setUp" finished-at="2022-12-07T15:13:23Z" duration-ms="8359" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="vldMktTest()[pri:3, instance:com.ali.qa.tests.HomeTest@42eca56e]" started-at="2022-12-07T15:13:23Z" name="vldMktTest" finished-at="2022-12-07T15:13:24Z" duration-ms="339" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- vldMktTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ali.qa.tests.HomeTest@42eca56e]" started-at="2022-12-07T15:13:24Z" name="tearDown" finished-at="2022-12-07T15:13:25Z" duration-ms="701" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.ali.qa.tests.HomeTest -->
+      <class name="com.ali.qa.tests.MarketplaceTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.ali.qa.tests.MarketplaceTest@7cbd213e]" started-at="2022-12-07T15:12:27Z" name="setUp" finished-at="2022-12-07T15:12:36Z" duration-ms="8490" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="vldCLKTest()[pri:1, instance:com.ali.qa.tests.MarketplaceTest@7cbd213e]" started-at="2022-12-07T15:12:36Z" name="vldCLKTest" finished-at="2022-12-07T15:12:39Z" duration-ms="3086" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- vldCLKTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ali.qa.tests.MarketplaceTest@7cbd213e]" started-at="2022-12-07T15:12:39Z" name="tearDown" finished-at="2022-12-07T15:12:39Z" duration-ms="624" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.ali.qa.tests.MarketplaceTest@7cbd213e]" started-at="2022-12-07T15:12:59Z" name="setUp" finished-at="2022-12-07T15:13:10Z" duration-ms="11218" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="vldLgoTest()[pri:2, instance:com.ali.qa.tests.MarketplaceTest@7cbd213e]" started-at="2022-12-07T15:13:10Z" name="vldLgoTest" finished-at="2022-12-07T15:13:14Z" duration-ms="4458" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- vldLgoTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ali.qa.tests.MarketplaceTest@7cbd213e]" started-at="2022-12-07T15:13:14Z" name="tearDown" finished-at="2022-12-07T15:13:15Z" duration-ms="617" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.ali.qa.tests.MarketplaceTest -->
+      <class name="com.ali.qa.tests.LoginTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.ali.qa.tests.LoginTest@52f759d7]" started-at="2022-12-07T15:12:23Z" name="setUp" finished-at="2022-12-07T15:12:27Z" duration-ms="3426" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="vldLinkTest()[pri:1, instance:com.ali.qa.tests.LoginTest@52f759d7]" started-at="2022-12-07T15:12:27Z" name="vldLinkTest" finished-at="2022-12-07T15:12:27Z" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- vldLinkTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ali.qa.tests.LoginTest@52f759d7]" started-at="2022-12-07T15:12:27Z" name="tearDown" finished-at="2022-12-07T15:12:27Z" duration-ms="526" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.ali.qa.tests.LoginTest@52f759d7]" started-at="2022-12-07T15:12:55Z" name="setUp" finished-at="2022-12-07T15:12:58Z" duration-ms="3364" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="vldTitleTest()[pri:2, instance:com.ali.qa.tests.LoginTest@52f759d7]" started-at="2022-12-07T15:12:58Z" name="vldTitleTest" finished-at="2022-12-07T15:12:58Z" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- vldTitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ali.qa.tests.LoginTest@52f759d7]" started-at="2022-12-07T15:12:58Z" name="tearDown" finished-at="2022-12-07T15:12:59Z" duration-ms="560" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.ali.qa.tests.LoginTest@52f759d7]" started-at="2022-12-07T15:13:25Z" name="setUp" finished-at="2022-12-07T15:13:28Z" duration-ms="3271" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="vldElementTest()[pri:3, instance:com.ali.qa.tests.LoginTest@52f759d7]" started-at="2022-12-07T15:13:28Z" name="vldElementTest" finished-at="2022-12-07T15:13:28Z" duration-ms="40" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- vldElementTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ali.qa.tests.LoginTest@52f759d7]" started-at="2022-12-07T15:13:28Z" name="tearDown" finished-at="2022-12-07T15:13:28Z" duration-ms="546" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.ali.qa.tests.LoginTest@52f759d7]" started-at="2022-12-07T15:13:28Z" name="setUp" finished-at="2022-12-07T15:13:31Z" duration-ms="2876" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="vldSSTest()[pri:4, instance:com.ali.qa.tests.LoginTest@52f759d7]" started-at="2022-12-07T15:13:31Z" name="vldSSTest" finished-at="2022-12-07T15:13:31Z" duration-ms="63" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- vldSSTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ali.qa.tests.LoginTest@52f759d7]" started-at="2022-12-07T15:13:31Z" name="tearDown" finished-at="2022-12-07T15:13:32Z" duration-ms="756" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.ali.qa.tests.LoginTest@52f759d7]" started-at="2022-12-07T15:13:32Z" name="setUp" finished-at="2022-12-07T15:13:35Z" duration-ms="3137" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="vldLgnTest()[pri:5, instance:com.ali.qa.tests.LoginTest@52f759d7]" started-at="2022-12-07T15:13:35Z" name="vldLgnTest" finished-at="2022-12-07T15:13:43Z" duration-ms="7330" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- vldLgnTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ali.qa.tests.LoginTest@52f759d7]" started-at="2022-12-07T15:13:43Z" name="tearDown" finished-at="2022-12-07T15:13:43Z" duration-ms="623" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.ali.qa.tests.LoginTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
