@@ -14,7 +14,7 @@ import com.qa.FB.base.BaseClass;
 
 public class HomePage extends BaseClass {
 
-	@FindBy(partialLinkText = "Jemish Roy")
+	@FindBy(partialLinkText = "Shree Krishna")
 	WebElement usrName;
 	
 	@FindBy(xpath = "//span[contains(text(),'Marketplace')]")
