@@ -6,9 +6,29 @@
   </listeners>
   <test name="Test(failed)">
     <classes>
+      <class name="com.ali.qa.tests.LoginTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="vldElementTest"/>
+          <include name="vldTitleTest"/>
+          <include name="tearDown"/>
+          <include name="vldLgnTest"/>
+          <include name="vldSSTest"/>
+        </methods>
+      </class> <!-- com.ali.qa.tests.LoginTest -->
+      <class name="com.ali.qa.tests.HomeTest">
+        <methods>
+          <include name="vldMktTest"/>
+          <include name="vldUsrNameTest"/>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+          <include name="vldSSTest"/>
+        </methods>
+      </class> <!-- com.ali.qa.tests.HomeTest -->
       <class name="com.ali.qa.tests.MarketplaceTest">
         <methods>
           <include name="vldCLKTest"/>
+          <include name="vldLgoTest"/>
           <include name="setUp"/>
           <include name="tearDown"/>
         </methods>
